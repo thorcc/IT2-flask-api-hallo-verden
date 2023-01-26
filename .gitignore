@@ -1,0 +1,4 @@
+.flaskenv
+templates
+__pycache__
+venv
